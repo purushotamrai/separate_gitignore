@@ -1,0 +1,27 @@
+{
+  "name": "separate_gitignore",
+  "version": "1.0.0",
+  "description": "Testing separate gitignore across branches for compiled files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purushotamrai/separate_gitignore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purushotamrai/separate_gitignore/issues"
+  },
+  "homepage": "https://github.com/purushotamrai/separate_gitignore#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gulp-cssnano": "^2.1.3"
+  }
+}
