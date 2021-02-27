@@ -1,6 +1,3 @@
 # Global gitignore, files that we ignore for all branches
 .idea/
 node_modules
-
-# Ignore compiled css files
-app/css
